@@ -1,0 +1,34 @@
+Lista 5 - While
+
+1)	Faça um programa que leia um conjunto não determinado de valores e mostre o valor lido, seu dobro, seu quadrado e seu cubo.  Finalize a entrada de dados com um valor negativo ou zero.
+
+2)	Faça um programa que receba uma senha formada de quatro números inteiros, verifique se a senha está correta e, caso não esteja, solicite novamente a senha. Se a senha entrada for a correta, deverá ser apresentada a mensagem “Senha Correta”, caso contrário, “Senha Incorreta”.
+
+
+3)	Faça um programa que leia números inteiros maiores que zero. Quando for entrado o número zero, o programa deverá apresentar quantos números foram entrados e a média destes.
+
+4)	O cardápio de uma casa de lanches é dado pela tabela abaixo:
+
+Codigo  Produto               Preço
+100     Cachorro quente       1,70
+101     Bauru Simples         2,30
+102     Bauru com ovo         2,60
+103     Hamburguer            2,40
+104     Cheeseburguer         2,50
+105     Refrigerante          1,00
+
+ 
+Escreva um algoritmo que leia os códigos dos itens adquiridos pelo consumidor e a quantidade, calculando e mostrando o valor a pagar. Não será necessário exibir o produto e o valor, somente o valor final. Para FINALIZAR o pedido, o usuário deverá digitar 0 (ZERO).
+
+5)	Faça um programa que simule a urna eletrônica. A tela a ser apresentada deverá ser da seguinte forma:
+Digite o número do candidato ou 0 (zero) para sair
+1. Candidato Claudia Rodrigues
+2. Candidato Carlos Luz
+3. Candidato Neves Rocha
+4. Nulo
+5. Branco
+O programa deverá ler os votos dos eleitores e, quando for entrado o número 0, apresentar as seguintes informações:
+a) O número de votos de cada candidato;
+b) A porcentagem de votos nulos;
+c) A porcentagem de votos brancos;
+d) O candidato vencedor.
